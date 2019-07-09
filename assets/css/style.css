@@ -277,3 +277,33 @@ small.text-muted {
   }
 
 }
+/* css */
+#imgclass {
+  margin-left: 5px;
+  position: relative;
+  width: 400px;
+  max-width: 400px;
+}
+
+#imgclass #im {
+ 
+  width: 1000px;
+  height: 500px;
+}
+
+#imgclass #bttn {
+  position: absolute;
+  top: 50%;
+  right: -235px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color:orange;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
