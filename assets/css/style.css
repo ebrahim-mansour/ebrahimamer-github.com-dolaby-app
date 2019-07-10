@@ -190,6 +190,16 @@ h1,h2,h3 {
 	background-color:#3B5999;
     color:#fffffe;
 }
+
+.post{
+  display: block;
+  width: 100%;
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
 .btn-default {
     color:#666666;
     text-shadow:0 0 1px rgba(0,0,0,.3);
